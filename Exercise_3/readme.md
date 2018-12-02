@@ -1,4 +1,4 @@
-Assignment 3 - semantic segmentation with fully convolutional networks
+**Assignment 3 - semantic segmentation with fully convolutional networks**
 
 This folder is to understand the main concepts and components of a decoder module of Fully Convolutional Networks (FCNs) for semantic segmentation.
 
